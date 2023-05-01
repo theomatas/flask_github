@@ -1,4 +1,4 @@
-Flask==1.1.1
+Flask==2.3.2
 Flask-Compress==1.4.0
 pytest==5.2.1
 pytest-arraydiff==0.3
